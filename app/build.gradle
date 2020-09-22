@@ -1,4 +1,14 @@
 apply plugin: 'com.android.application'
+/*
+ * Copyright (c) 23/sep/2020 /*
+ *
+ *
+ *                             * All Rights Reserved
+ *                            RAJAT PAYAAL
+ *
+ *
+ *
+ */
 
 android {
     compileSdkVersion 29

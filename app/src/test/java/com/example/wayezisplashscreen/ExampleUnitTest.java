@@ -1,5 +1,17 @@
 package com.example.wayezisplashscreen;
 
+/*
+ * Copyright (c) 23/sep/2020 /*
+ *
+ *
+ *                             * All Rights Reserved
+ *                            RAJAT PAYAAL
+ *
+ *
+ *
+ */
+
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;

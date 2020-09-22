@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 23/sep/2020 /*
+ *
+ *
+ *                             * All Rights Reserved
+ *                            RAJAT PAYAAL
+ *
+ *
+ *
+ */
+
 package com.example.wayezisplashscreen;
 
 import android.content.Context;
